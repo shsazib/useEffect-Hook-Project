@@ -1,0 +1,14 @@
+h2{
+    color: green;
+}
+h4{
+    /* text-transform: capitalize; */
+    color: green;
+}
+.image{
+    margin-right: 10%;
+}
+.id{
+    color: red;
+    font-size: 25px;
+}
